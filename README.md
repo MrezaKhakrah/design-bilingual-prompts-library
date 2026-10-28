@@ -130,7 +130,3 @@ npm install
 - TypeScript
 - Vite
 - Progressive Web App (PWA) technologies
-
-## License
-
-No license has been specified yet. Add a `LICENSE` file if you intend to distribute this project under an open-source license.
