@@ -130,3 +130,9 @@ npm install
 - TypeScript
 - Vite
 - Progressive Web App (PWA) technologies
+
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for deta
